@@ -22,4 +22,3 @@ op = input("Enter operator (+, -, *, /): ")
 result = calculate(first_number, second_number, op)
 print("Result:", result)
 
-

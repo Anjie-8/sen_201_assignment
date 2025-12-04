@@ -1,7 +1,7 @@
-Name: Fafowora Anjolaoluwa Goodness
-Matric No: 24/15017
-Department: Computer Science
-SEN 201 ASSIGNMENT: SDLC FOR A SIMPLE CALCULATOR APPLICATION PROJECT
+Name: Fafowora Anjolaoluwa Goodness  
+Matric No: 24/15017  
+Department: Computer Science  
+SEN 201 ASSIGNMENT: SDLC FOR A SIMPLE CALCULATOR APPLICATION PROJECT  
 
 1. Requirement Analysis:
 Identified the main features: the calculator must perform addition, subtraction, multiplication, and division.

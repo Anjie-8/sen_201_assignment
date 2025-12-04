@@ -22,3 +22,8 @@ Example: Enter first number: 10 Enter second number: 5 Enter operator (+, -, *, 
 
 
 https://github.com/Anjie-8/sen_201_assignment.git
+
+[View SDLC in Markdowm](SDLC.md)
+
+
+

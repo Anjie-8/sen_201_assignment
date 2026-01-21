@@ -1,29 +1,45 @@
-A Simple Calculator Application
-
-SEN 201 – Caleb University
-
-Description
-
-A simple Python calculator that performs basic arithmetic operations (+, -, *, /) and handles errors like division by zero.
-
-How to Use
-
-Run the program in Python.
-
-Enter the first number.
-
-Enter the second number.
-
-Enter an operator (+, -, *, /).
-
-See the result.
-
-Example: Enter first number: 10 Enter second number: 5 Enter operator (+, -, *, /): * Result: 50.0
+Name: Fafowora Anjolaoluwa Goodness  
+Matric No: 24/15017  
+Department: Computer Science  
+Course: SEN 201-Introduction to Software Engineering 
 
 
-https://github.com/Anjie-8/sen_201_assignment.git
-
-[View SDLC in Markdowm](SDLC.md)
 
 
+ Description
+The Simple Calculator Application is a console-based Python program that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The application also handles common errors, including division by zero.
+
+
+ Features
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Error handling for division by zero
+- Simple and user-friendly console interaction
+
+
+
+ How to Use
+1. Run the program using Python.
+2. Enter the first number when prompted.
+3. Enter the second number.
+4. Enter an arithmetic operator (+, -, *, /).
+5. View the calculated result.
+
+
+
+Example
+Enter first number: 10
+Enter second number: 5
+Enter operator (+, -, *, /): *
+Result: 50.0
+
+
+ Project Repository
+The project is hosted on:  
+
+ 
+ Documentation
+ [View SDLC Documentation (Markdown)](SDLC.md)
 

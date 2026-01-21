@@ -37,9 +37,8 @@ Result: 50.0
 
 
  Project Repository
-The project is hosted on:  
+The project is hosted on:  https://github.com/Anjie-8/sen_201_assignment
 
- 
- Documentation
+  Documentation
  [View SDLC Documentation (Markdown)](SDLC.md)
 
